@@ -3,7 +3,7 @@ This script will upgrade your whole linux system files and package, i will be up
 
 INSTRUCTIONS:
 
-cd linuxfullupdate
+cd updatescript
 
 chmod +x fullupgrade.sh
 
